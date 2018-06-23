@@ -8,8 +8,8 @@
   description: An application to help calculate work hours done per week with a GUI. All done in Java. Click <a href="https://github.com/MatthewCamarena/HoursCalculator.git">here</a> to go to the git page.
   
 # Tic Tac Toe
-- project: Tic Tac Toe
+- project: Tic Tac Toe Clone
   role: Founder & Organizer
   duration: 2014 &mdash; Present
   # url: "#"
-  description: A tic tac toe game with it's own AI. It features a use of C++ and database organization.
+  description: A tic tac toe game clone with it's own AI. It features a use of C++ and and increasing level of difficulty between bot ai.
