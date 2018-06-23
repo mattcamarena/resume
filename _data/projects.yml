@@ -1,16 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# HoursCaclulator
+- project: HoursCalculator
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2015 &mdash; Present
+  description: An application to help calculate work hours done per week with a GUI. All done in Java. Click <a href="https://github.com/MatthewCamarena/HoursCalculator.git">here</a> to go to the git page.
+  
+# Tic Tac Toe
+- project: Tic Tac Toe
+  role: Founder & Organizer
+  duration: 2014 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A tic tac toe game with it's own AI. It features a use of C++ and database organization.
