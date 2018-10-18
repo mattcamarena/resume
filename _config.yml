@@ -20,7 +20,7 @@ resume_contact_email:           "camarena.matthew@csu.fullerton.edu"
 resume_contact_telephone:       "(909) 702 0085"
 resume_contact_address:         "2557 S Phoenix Pl, Ontario CA"
 
-resume_header_contact_info:     "<p></p>2557 S Phoenix Pl, Ontario CA • (909) 702 0085 • camarena.matthew@csu.fullerton.edu"
+resume_header_contact_info:     "<p></p><p></p>2557 S Phoenix Pl, Ontario CA • (909) 702 0085 • camarena.matthew@csu.fullerton.edu<p></p>"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p></p> <p>I am a computer science student pursuing a Bachelors Degree. </p>"
