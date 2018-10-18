@@ -1,5 +1,5 @@
 # Site settings
-title: " "
+title: "-"
 description: "A resume using GitHub Pages for me - Matthew Camarena."
 
 # Build settings
@@ -44,12 +44,12 @@ resume_section_associations:    false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-resume_social_links:
+#resume_social_links:
 #  resume_github_url:            "https://github.com/MatthewCamarena"
 
   
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/matthew-camarena-33a54115a"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/matthew-camarena-33a54115a"
   # resume_instagram_url:         "insert your Instagram URL here"
   
 
