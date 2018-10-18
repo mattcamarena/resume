@@ -5,7 +5,7 @@
 - project: HoursCalculator
   role: Founder & Primary Developer
   duration: 2015 &mdash; Present
-  description: An application to help calculate work hours done per week with a GUI. All done in Java. Reference link <https://github.com/MatthewCamarena/HoursCalculator.git> to the git page.
+  description: An application to help calculate work hours done per week with a GUI. All done in Java. 
   
 # Tic Tac Toe
 - project: Tic Tac Toe Clone
