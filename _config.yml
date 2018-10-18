@@ -23,7 +23,7 @@ resume_contact_address:         "2557 S Phoenix Pl, Ontario CA"
 resume_header_contact_info:     "2557 S Phoenix Pl, Ontario CA • (909) 702 0085 • camarena.matthew@csu.fullerton.edu"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a computer science student pursuing a Bachelors Degree. </p> <p>Email: camarena.matthew@csu.fullerton.edu Phone: (909) 702 - 0085</p> <p>Address: 2557 S. Phoenix Pl, Ontario CA</p>"
+resume_header_intro: "<p>I am a computer science student pursuing a Bachelors Degree. </p>"
  
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,7 +45,7 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/MatthewCamarena"
+#  resume_github_url:            "https://github.com/MatthewCamarena"
 
   
   # resume_facebook_url:          "insert Facebook URL here"
