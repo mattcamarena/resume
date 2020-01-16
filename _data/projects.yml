@@ -5,7 +5,7 @@
 - project: HoursCalculator
   role: Software Developer
   duration: 2015 &mdash; Present
-  url: https://github.com/MatthewCamarena/JuanPolloHours
+  #url: https://github.com/MatthewCamarena/JuanPolloHours
   description: An application to help calculate work hours done per week with a GUI. All done in Javascript and html. <br> 
   
   
@@ -23,15 +23,11 @@
   role: Web Developer
   duration: Aug 2019 &mdash; Dec 2019
   # url: "#"
-  description: Software Eningeering Group project. As a group we were assigned to practice the agile approach in creating a functional project.
-  We decided on a web chat forum to discuss school related activities and class questions. We used github.io to host it, written in
-  Javascript, html , css and Firebase for the backend Database. My primary role was to create and solve the sign up/login function and attach it to the 
-  firebase database.
+  description: Software Eningeering Group project. As a group we were assigned to practice the agile approach in creating a functional project. We decided on a web chat forum to discuss school related activities and class questions. We used github.io to host it, written in Javascript, html , css and Firebase for the backend Database. My primary role was to create and solve the sign up/login function and attach it to the firebase database.
   
   # Rat18F
 - project: Rat18F
   role: Software Developer
   duration: Aug 2019 &mdash; Dec 2019
   # url: "#"
-  description: Group Project on creating our own compiler using Finite State Machines. Built entirely in c++, we created a language
-  named Rat18F that compiles code written in said language and turns it into assembly language. 
+  description: Group Project on creating our own compiler using Finite State Machines. Built entirely in c++, we created a language named Rat18F that compiles code written in said language and turns it into assembly language. 
