@@ -5,26 +5,26 @@
 - project: HoursCalculator
   role: Software Developer
   duration: 2015 &mdash; Present
-  #url: https://github.com/MatthewCamarena/JuanPolloHours
-  description: An application to help calculate work hours done per week with a GUI. All done in Javascript and html. 
+  url: https://github.com/MatthewCamarena/JuanPolloHours
+  description: An application to help speed up and reducing errors while calculating work hours done bi-weekly with a GUI. All done in Javascript and html. 
   
 # Connect 4
 - project: Connect 4 AI
   role: Game Developer
-  duration: 2019 &mdash;2019
+  duration: Fall 2019
   # url: "#"
   description: As a team we implemented Artificial Intelligence for the common game of Connect 4, using the min max algorithm. The project was built using python and the pygame library. My primary role was creating the game and allowing for a seamless implementation of the AI. 
   
   # Laffytuffy
 - project: Laffy Tuffy
   role: Web Developer
-  duration: 2019 &mdash; 2019
+  duration: Spring 2019
   # url: "#"
   description: Software Eningeering Group project. As a group we were assigned to practice the agile approach in creating a functional project. We decided on a web chat forum to discuss school related activities and class questions. We used github.io to host it, written in Javascript, html , css and Firebase for the backend Database. My primary role was to create and solve the sign up/login function and attach it to the firebase database.
   
   # Rat18F
 - project: Rat18F
   role: Software Developer
-  duration: 2019 &mdash; 2019
+  duration: Fall 2018
   # url: "#"
   description: Group Project on creating our own compiler using Finite State Machines. Built entirely in c++, we created a language named Rat18F that compiles code written in said language and turns it into assembly language. 
