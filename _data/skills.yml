@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading a crew to successfully cater food for hundreds of people. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+#- skill: Organizational leadership
+#  description: I have several years of experience leading a crew to successfully cater food for hundreds of people. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Computer Languages
 - skill: Programming Languages
-  description: Comfortable using C++, Java, Assembly, mySQL, and Python.
+  description: Advanced: C++ <br> Intermediate: Python, Java<br>Basic: HTML/CSS, Javascript, Inline Assembly in C++
   
-- skill: Relevant Courses
-  description: Discrete Mathematics, Data Structures, Software Dev w/Open Source, Operating System Concepts, Java, Assembly, Database Systems (enrolled)
+#- skill: Relevant Courses
+# description: Discrete Mathematics, Data Structures, Software Dev w/Open Source, Operating System Concepts, Java, Assembly, Database Systems (enrolled)
 
