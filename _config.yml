@@ -20,7 +20,7 @@ resume_contact_email:           "camarena.matthew@csu.fullerton.edu"
 resume_contact_telephone:       "(909) 702 0085"
 resume_contact_address:         "1723 Waldorf Blvd Apt 406, Madison Wisconsin"
 
-resume_header_contact_info:     "<p></p><p></p>1723 Waldorf Blvd Apt 406, Madison Wisconsin • (909) 702 0085 • camarena.matthew@csu.fullerton.edu<p></p>"
+resume_header_contact_info:     "<p></p><p></p>1723 Waldorf Blvd Apt 406, Madison WI 53719 • (909) 702 0085 • camarena.matthew@csu.fullerton.edu<p></p>"
 display_header_contact_info:    "true"
 
 resume_header_intro: #"<p></p> <p>I am a computer science student pursuing a Bachelors Degree. </p>"
