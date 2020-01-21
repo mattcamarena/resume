@@ -1,30 +1,31 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# HoursCaclulator
+# HoursCalculator
 - project: HoursCalculator
-  role: Software Developer
+  role: Personal Project
   duration: 2015 &mdash; Present
  #url: https://github.com/MatthewCamarena/JuanPolloHours
-  description: A self-made application to help speed up and reduce errors while calculating work hours done bi-weekly with a GUI. All done in Javascript and html. 
+  description: <ul class="resume-item-list"><li>An application that calculates work hours for waged employees paid bi-weekly</li><li>Sped up calculating work hours for 10 employees by 50% and reduced payroll errors</li><li>Created using HTML/CSS and JavaScript</li></ul>
   
 # Connect 4
 - project: Connect 4 AI
-  role: Team Member
+  role: Artificial Intelligence (CPSC 481)
   duration: Fall 2019
   # url: "#"
-  description: As a team we implemented Artificial Intelligence for the common game of Connect 4, using the min max algorithm. The project was built using python utilizing the pygame library. My primary role was creating the game and allowing for a seamless implementation of the AI. 
+  description: <ul class="resume-item-list"><li>Developed a Connect 4 interface using Python and the Pygame library</li><li>Worked as a team to implement artificial intelligence using the MinMax algorithm</li></ul>
   
-  # Laffytuffy
+ # Laffytuffy
 - project: Laffy Tuffy
-  role: Team Member
+  role: Foundations of Software Engineering (CPSC 362)
   duration: Spring 2019
   # url: "#"
-  description: Software Eningeering Group project. As a group we were assigned to practice the agile approach in creating a functional project. We decided on a web chat forum to discuss school related activities and class questions. We used github.io to host it, written in Javascript, html , css and Firebase for the backend Database. My primary role was to create and solve the sign up/login function and attach it to the firebase database.
+  description: <ul class="resume-item-list"><li>Collaborated as a team to create a web discussion forum for school-related activities and class questions</li><li>Developed the registration and login pages and attached the functions to the database</li><li>Practiced Agile software development in a team setting</li><li>Created using HTML/CSS, JavaScript, and Firebase; hosted using Github Pages</li></ul>
   
   # Rat18F
 - project: Rat18F
-  role: Team Member
+  role: Compilers and Languages (CPSC 323)
   duration: Fall 2018
   # url: "#"
-  description: Group Project on creating our own compiler using Finite State Machines. Built entirely in c++, we created a language named Rat18F that compiles code written in said language and turns it into assembly language. 
+  description: <ul class="resume-item-list"><li>Worked as a team to create a language named Rat18F and an associated compiler</li><li>Built a compiler using finite-state machines that compiles Rat18F into Assembly</li><li>Created using C++</li></ul>
+  
