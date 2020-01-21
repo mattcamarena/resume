@@ -20,12 +20,12 @@
   role: Foundations of Software Engineering (CPSC 362)
   duration: Spring 2019
   # url: "#"
-  description: <ul class="resume-item-list"><li>Collaborated as a team to create a web discussion forum for school-related activities and class questions</li><li>Developed the registration and login pages and attached the functions to the database</li><li>Practiced Agile software development in a team setting</li><li>Created using HTML/CSS, JavaScript, and Firebase; hosted using Github Pages</li></ul>
+  description: <ul class="resume-item-list"><li>Practiced Agile software development as a team to create a web discussion forum for school-related activities and class questions</li><li>Developed the registration and login pages and attached the functions to the database</li><li>Created using HTML/CSS, JavaScript, and Firebase; hosted using Github Pages</li></ul>
   
   # Rat18F
 - project: Rat18F
   role: Compilers and Languages (CPSC 323)
   duration: Fall 2018
   # url: "#"
-  description: <ul class="resume-item-list"><li>Worked as a team to create a language named Rat18F and an associated compiler</li><li>Built a compiler using finite-state machines that compiles Rat18F into Assembly</li><li>Created using C++</li></ul>
+  description: <ul class="resume-item-list"><li>Collaborated as a team to create a language named Rat18F and an associated compiler</li><li>Built a compiler using finite-state machines that compiles Rat18F into Assembly</li><li>Created using C++</li></ul>
   
