@@ -20,7 +20,7 @@
   role: Foundations of Software Engineering (CPSC 362)
   duration: Spring 2019
   # url: "#"
-  description: <ul class="resume-item-list"><li>Practiced Agile software development as a team to create a web discussion forum for school-related activities and class questions</li><li>Developed the registration and login pages and attached the functions to the database</li><li>Created using HTML/CSS, JavaScript, and Firebase; hosted using Github Pages</li></ul>
+  description: <ul class="resume-item-list"><li>Practiced Agile software development as a team to create a web discussion forum for school-related activities and questions</li><li>Developed the registration and login pages and attached the functions to the database</li><li>Created using HTML/CSS, JavaScript, and Firebase; hosted using Github Pages</li></ul>
   
   # Rat18F
 - project: Rat18F
