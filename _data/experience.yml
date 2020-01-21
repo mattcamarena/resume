@@ -1,11 +1,16 @@
 # Jobs
-# VP of Global Communications
 - company: Juan Pollo
   position: Chef / Manager
-  duration: Oct, 2014 &mdash; Dec 2019
+  duration: Oct 2014 &mdash; Dec 2019
   summary:
   <ul class="resume-item-list"><li>Hired and trained new crew members</li>
-  <ul class="resume-item-list"><li>Managed all crew members during shift</li>
-  <ul class="resume-item-list"><li>Calculated work hours for all crew members using self-programmed calculator</li>
-  
+  <li>Managed all crew members during shift</li>
+  <li>Calculated work hours for all crew members using self-programmed calculator</li>
+  </ul>
+ - company: California State University, Fullerton
+  position: Mathematics Tutor
+  duration: Jan 2017 &mdash; December 2017
+  summary:
+  <ul class="resume-item-list"><li>Tutored students in mathematics up to calculus II</li>
+  </ul>
 
