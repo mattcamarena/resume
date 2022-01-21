@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # HoursCalculator
-- project: HoursCalculator
+- project: My Recipes
   role: Personal Project
-  duration: 2015 &mdash; Present
+  duration: 2021 &mdash; Present
  #url: https://github.com/MatthewCamarena/JuanPolloHours
-  description: <ul class="resume-item-list"><li>An application that calculates work hours for waged employees paid bi-weekly</li><li>Sped up calculating work hours for 10 employees by 50% and reduced payroll errors</li><li>Created using HTML/CSS and JavaScript</li></ul>
+  description: <ul class="resume-item-list"><li>Mobile App Developed for the Apple Iphone to store recipes.</li><li> Clean design, ease of adding viewing and editing recipes</li><li> Swift using XCode</li></ul>
   
 # Connect 4
 - project: Connect 4 AI
