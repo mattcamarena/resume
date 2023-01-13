@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # HoursCalculator
-- project: My Recipes
+- project: My Recipe Web App
   role: Personal Project
-  duration: 2021 &mdash; Present
+  duration: 2022 &mdash; Present
  #url: https://github.com/MatthewCamarena/JuanPolloHours
-  description: <ul class="resume-item-list"><li>Mobile App Developed for the Apple Iphone to store recipes.</li><li> Clean design, ease of adding viewing and editing recipes</li><li> Swift using XCode</li></ul>
+  description: <ul class="resume-item-list"><li>Web App made to store recipes.</li><li> Clean design, ease of adding viewing and editing recipes</li><li> Developed with node.js</li></ul>
   
 # Connect 4
 - project: Connect 4 AI
