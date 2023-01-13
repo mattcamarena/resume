@@ -6,7 +6,7 @@
   role: Personal Project
   duration: 2022 &mdash; Present
  #url: https://github.com/MatthewCamarena/JuanPolloHours
-  description: <ul class="resume-item-list"><li>Web App made to store recipes.</li><li> Clean design, ease of adding viewing and editing recipes</li><li> Developed with node.js</li></ul>
+  description: <ul class="resume-item-list"><li>Web App made to store recipes.</li><li> Clean design, ease of adding viewing and editing recipes</li><li> Developed with Node.js, MongoDB, HTML/JavaScript/CSS</li></ul>
   
 # Connect 4
 - project: Connect 4 AI
